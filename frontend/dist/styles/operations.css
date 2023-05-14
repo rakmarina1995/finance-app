@@ -1,0 +1,68 @@
+.operations-actions {
+    margin-bottom: 40px;
+}
+
+.btn-create-income {
+    width: 130px;
+    height: 38px;
+    background: #198754;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    padding: 11px;
+    margin-right: 10px;
+    border:0;
+}
+.btn-create-income:hover,.btn-create-income:active,.btn-create-income:focus-visible{
+    background: #136941!important;
+    border:0!important;
+    color: #FFFFFF!important;
+}
+
+.btn-create-expense {
+    width: 137px;
+    height: 38px;
+    background: #DC3545;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    padding: 11px;
+}
+.btn-create-expense:hover,.btn-create-expense:active,.btn-create-expense:focus-visible{
+    background: #be2634!important;
+    border:0!important;
+    color: #FFFFFF!important;
+}
+
+.filter {
+    margin-bottom: 40px;
+}
+
+.row-title {
+    border: 1px solid #DEE2E6;
+    padding-top: 15px;
+    padding-bottom: 16px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #052C65;
+    text-align: center;
+    font-weight: bold;
+}
+
+.row-border {
+    text-align: center;
+    border: 1px solid #DEE2E6;
+    padding-top: 11px;
+    padding-bottom: 14px;
+    font-size: 16px;
+    line-height: 23px;
+}
+.popup{
+    height: 161px;
+}

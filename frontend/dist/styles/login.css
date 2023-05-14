@@ -1,0 +1,62 @@
+.container{
+    text-align: center;
+    margin: 195px auto;
+}
+
+.logo {
+    margin-bottom: 60px;
+}
+
+.login__form {
+    max-width: 397px;
+    margin: 0 auto;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.input-group-img {
+    width: 38px;
+    height: 38px;
+}
+.form-input:focus{
+    outline: 0;
+    box-shadow: unset;
+    border-color:#ced4da;
+}
+.form-control::placeholder{
+    font-size: 15px;
+    line-height: 24px;
+    color: #6C757D;
+}
+
+.input-group-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-size: 12px;
+    color: #000000;
+
+}
+.btn-group{
+    margin-top: 20px;
+
+}
+.btn{
+    font-size: 15px;
+    line-height: 18px;
+
+}
+.link-group{
+    text-align: left;
+    margin-top:10px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+}
+.link-group a{
+    margin-left:10px;
+}
+
+
